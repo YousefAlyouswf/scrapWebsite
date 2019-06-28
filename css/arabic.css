@@ -1,0 +1,39 @@
+@import url(http://fonts.googleapis.com/earlyaccess/droidarabickufi.css);
+
+.home-scrolldown span{
+    font-size: 17px;
+    font-weight: bolder;
+    font-family: 'Droid Arabic Kufi', serif;
+}
+
+.contents h2 , .contents h3 , #header a{
+    font-family: 'Droid Arabic Kufi', serif;
+}
+
+.contents h2{
+    line-height: 50px;
+}
+
+#about1 .col-four{
+    width: 200px;
+    float: right;
+}
+#about1 .col-eight{
+    float: right;
+}
+
+#about1 .col-four h1{
+}
+
+#buying .col-four{
+    float: right;
+}
+#buying h1{
+}
+#buying h3, p{
+
+    float: right;
+}
+h1.intro-header::before{
+}
+
